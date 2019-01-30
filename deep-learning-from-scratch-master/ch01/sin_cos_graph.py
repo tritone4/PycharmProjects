@@ -15,3 +15,4 @@ plt.ylabel("y") # y軸のラベル
 plt.title('sin & cos')
 plt.legend()
 plt.show()
+# abc
